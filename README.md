@@ -1,6 +1,4 @@
 # water-scheduling-paddy-novnc-dosbox-lotus123
-Preparation of water issue scheduls for paddy with fixed time table and variable discharge for different growth stages
-# water-scheduling-paddy-novnc-dosbox-lotus123
 Docker Water issue Scheduling software for Paddy based on rotational water issue with fixed time table  and variable discharge 
 
 # Docker Water issue Scheduling software for Paddy based on rotational water issue with fixed time table  and variable discharge 
