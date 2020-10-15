@@ -9,7 +9,7 @@ Lotus123/Dos from https://vetusware.com/manufacturer/Lotus%20Software/?author=86
 
 noVNC  from : Joel Martin (github@martintribe.org).  https://novnc.com/info.html 
  
-The above softrware have been used to create in this  docker image , with pre-installed  Lotus123 & Water Scheduling Software for Paddy on DOSBox 
+The above software have been used to create in this  docker image , with pre-installed  Lotus123 & Water Scheduling Software for Paddy on DOSBox 
 
 
 
