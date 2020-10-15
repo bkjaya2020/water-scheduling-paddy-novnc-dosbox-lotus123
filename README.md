@@ -20,7 +20,7 @@ The water issue scheduling software incorporated in this docker repository has b
 
 You can get more details on the software from the following document presented in 1988 for  the annual sessions in the Institution of Engineers , Sri Lanka by the author.
 
-https://github.com/bkjaya2020/water-schedule4paddy-novnc-dosbox-lotus123/blob/main/koisp.pdf
+https://github.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/blob/main/koisp.pdf
 
 
 For more details please see this video - 
