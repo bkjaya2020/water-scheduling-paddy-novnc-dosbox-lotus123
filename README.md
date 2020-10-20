@@ -42,5 +42,21 @@ On the Ubuntu terminal
 
 <code>xdg-open http://localhost:8008/vnc_lite.html</code>
 
+<img src="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-20%2017-37-58.png" alt="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-20%2017-37-58.png" width="625" height="520">
+
+Figure :- 1 Flow Chart of the Scheduling Process using FARM.WK1 ,  CORE.WK1, and CHITRA.WK1
+
+<img src="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-18%2017-32-57.png" alt="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-18%2017-32-57.png" width="625" height="520">
+
+Figure :- 2 Calculating Crop Water requirement using FARM.WK1
+
+<img src="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-18%2017-32-57.png" alt="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-18%2017-32-57.png" width="625" height="520">
+
+Figure :- 3 Scheduling using CORE.WK1
+
+<img src="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-18%2017-34-07.png" alt="https://raw.githubusercontent.com/bkjaya2020/water-scheduling-paddy-novnc-dosbox-lotus123/main/Screenshot%20from%202020-10-18%2017-34-07.png" width="625" height="520">
+
+Figure :- 4 Computing dischrge at the Sluice using CHITRA.WK1
+
 Plese refer https://bkjaya.wordpress.com/2020/10/12/how-to-install-docker-water-issue-scheduling-software-for-paddy-based-on-rotational-water-issue-with-fixed-time-table-and-variable-discharge-on-ubuntu-20-04/
 
